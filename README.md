@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is my First Get Repo
+This is my First Git Repo
 Author: Pratyansu
 <!--
 **PratyansuPrateek/pratyansuprateek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
